@@ -16,4 +16,4 @@ async def tell_me_about_pollutions(ctx):
     await ctx.send(f"Увожаемый пользователь, если вы будете переробатывать пластик, то получите скидку в магазине Фаворит")
 
 
-bot.run("MTE1ODAxOTQ2MTM3MTEzNDA5Mw.G2fbVq.GituiZCBMBOugZ4edXEdaimFQllDUrIBwuyszw")
+bot.run("MTE1ODAxOTQ2MTM3MTEzNDA5Mw.GLSHfA.aR_BOqCw4PdnVvfMgFIvMro1DRBckbZt1wMj6U")
